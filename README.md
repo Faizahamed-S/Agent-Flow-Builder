@@ -71,6 +71,12 @@ uvicorn main:app --reload
 ---
 
 ## Screenshots
+- **Basic Agent Flow Builder**
+  
+![Screenshot1](https://github.com/Faizahamed-S/Agent-Flow-Builder/blob/main/frontend/public/Image_1.png)
+- **Backend result, which provides number of Nodes, Edges and is it Direct Acyclic Graph or not**
+
+![Screenshot2](https://github.com/Faizahamed-S/Agent-Flow-Builder/blob/main/frontend/public/image_2.png)
 
 ---
 
